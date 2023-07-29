@@ -1,0 +1,17 @@
+
+vertexlitgeneric
+{
+
+	$basetexture models/weapons/v_ml/missle_d
+	$bumpmap dev/bump_normal
+	$lightwarptexture dev/identitylightwarp
+
+	$halflambert 1
+	$ambientocclusion 1
+
+	$detail detail/metal_detail_01
+	$detailscale 5
+	$detailblendfactor 0.9
+	$detailblendmode 0
+
+}
